@@ -1,9 +1,9 @@
 """
-ASGI config for acme_project project.
+Configuración de la ASGI para el proyecto acme_project.
 
-It exposes the ASGI callable as a module-level variable named ``application``.
+Expone la ASGI que puede llamarse como una variable de módulo llamada `application`.
 
-For more information on this file, see
+Para obtener más información acerca de este archivo, consulta
 https://docs.djangoproject.com/en/3.2/howto/deployment/asgi/
 """
 

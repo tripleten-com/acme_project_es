@@ -3,7 +3,7 @@ WSGI config for acme_project project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
-For more information on this file, see
+Para obtener más información acerca de este archivo, consulta
 https://docs.djangoproject.com/en/3.2/howto/deployment/wsgi/
 """
 
